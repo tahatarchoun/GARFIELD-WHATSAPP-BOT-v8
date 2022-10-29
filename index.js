@@ -29,7 +29,7 @@ global.db = new Low(
       new JSONFile(`database/database.json`)
 )
 global.db.data = {
-    users: {},
+    users: {Taha tarchoun},
     chats: {},
     database: {},
     game: {},
